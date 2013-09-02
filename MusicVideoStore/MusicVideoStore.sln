@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MusicVideoStore", "MusicVideoStore\MusicVideoStore.vbproj", "{FCEC4658-84DC-4339-ADE7-9B5ED34B02AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEC4658-84DC-4339-ADE7-9B5ED34B02AD}.Debug|x86.ActiveCfg = Debug|x86
+		{FCEC4658-84DC-4339-ADE7-9B5ED34B02AD}.Debug|x86.Build.0 = Debug|x86
+		{FCEC4658-84DC-4339-ADE7-9B5ED34B02AD}.Release|x86.ActiveCfg = Release|x86
+		{FCEC4658-84DC-4339-ADE7-9B5ED34B02AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\bin\Debug\MusicVideoStore.exe.config
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\bin\Debug\MusicVideoStore.exe
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\bin\Debug\MusicVideoStore.pdb
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\bin\Debug\MusicVideoStore.xml
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.Resources.resources
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.exe
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.xml
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.pdb
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.vbproj.ResolveComReference.cache
+C:\Users\Vincent\documents\visual studio 2010\Projects\MusicVideoStore\MusicVideoStore\obj\x86\Debug\MusicVideoStore.Form.resources
+C:\Users\Vincent\Documents\Visual Studio 2010\Projects\MusicVideoStore\MusicVideoStore\bin\Debug\MySql.Data.dll
